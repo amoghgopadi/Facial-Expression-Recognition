@@ -37,7 +37,7 @@ Cohn-Kanade(CK+) database, Japanese Female Facial Expression database(JAFFE) and
 * Keras - stable release 2.3.1
 
 ## Setup
-The jupyter notebook file has a link to the google colab notebook which can be run without any setup to build the trained CNN model. This model is then to be downloaded locally along with the the other python scripts present in the project. After setting the appropriate path locations in the python files to the specific model, they will perform their functions seamlessly.
+The jupyter notebook file has a link to the google colab notebook which can be run on the data files to build the trained CNN model. This model should then be placed in the models directory locally along with the other python scripts present in the project. After setting the appropriate path locations in the python files to the specific model, they will perform their functions seamlessly.
 
 ## Features
 List of features ready and TODOs for future development
