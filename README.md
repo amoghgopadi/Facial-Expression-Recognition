@@ -20,8 +20,10 @@ Cohn-Kanade(CK+) database, Japanese Female Facial Expression database(JAFFE) and
 ![Number of images in each dataset](https://user-images.githubusercontent.com/23340235/109894984-78f1c480-7cb4-11eb-9089-a69ae797b44a.png)
 
 ## Screenshots
-![Output 1](https://user-images.githubusercontent.com/23340235/109895781-d63a4580-7cb5-11eb-9434-c43b57a3d302.png)
-![Output 2](https://user-images.githubusercontent.com/23340235/109895809-e520f800-7cb5-11eb-8c40-cfdf9ef80a0a.png)
+![Output 1](https://user-images.githubusercontent.com/23340235/109897338-9163de00-7cb8-11eb-9d0e-3fb96d9f9a06.png)
+
+![Output 2](https://user-images.githubusercontent.com/23340235/109897320-89a43980-7cb8-11eb-81a9-3f8130d5dbbb.png)
+
 ![Output 3](https://user-images.githubusercontent.com/23340235/109896924-d76c7200-7cb7-11eb-8982-a057e4d3fff6.png)
 
 
