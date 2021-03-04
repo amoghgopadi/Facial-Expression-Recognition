@@ -20,29 +20,25 @@ Cohn-Kanade(CK+) database, Japanese Female Facial Expression database(JAFFE) and
 ![Number of images in each dataset](https://user-images.githubusercontent.com/23340235/109894984-78f1c480-7cb4-11eb-9089-a69ae797b44a.png)
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Output 1](https://user-images.githubusercontent.com/23340235/109895781-d63a4580-7cb5-11eb-9434-c43b57a3d302.png)
+![Output 2](https://user-images.githubusercontent.com/23340235/109895809-e520f800-7cb5-11eb-8c40-cfdf9ef80a0a.png)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Platform - Google Colab
+* Python - version 3.6
+* Tkinter library
+* PyCharm Community Edition 2016.3.2
+* OpenCV - stable release 3.4.1
+* Keras - stable release 2.3.1
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
+The jupyter notebook file has a link to the google colab notebook which can be run without any setup to build the trained CNN model. This model is then to be downloaded locally along with the the other python scripts present in the project. After setting the appropriate path locations in the python files to the specific model, they will perform their functions seamlessly.
 
 ## Features
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Analyse multiple faces in a single frame
+* Analyse and determine facial expressions corresponding to five facial emotions
+* Real time facial expression recognition system.
 
 ## Contact
 Created by @amoghsgopadi - feel free to contact me!
