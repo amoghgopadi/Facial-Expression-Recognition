@@ -11,11 +11,10 @@ The main aim of this project is to develop a facial expression recognition syste
 * [Contact](#contact)
 
 ## General info
-Many different approaches can be used to overcome the problems of Facial Expression Recognition (FER) but the best suited technique for automated FER is Convolutional Neural Networks(CNN). Thus, a novel CNN architecture is proposed and a combination of multiple datasets such as FER2013, FER+, JAFFE, CK+ and real time photos are used for training and testing. This helps to improve the accuracy and develop a robust real time system.
+Many different approaches can be used to overcome the problems of Facial Expression Recognition (FER) but the best-suited technique for automated FER is Convolutional Neural Networks(CNN). Thus, a novel CNN architecture is proposed and a combination of multiple datasets such as FER2013, FER+, JAFFE, CK+, and real-time photos are used for training and testing. This helps to improve accuracy and develop a robust real-time system.
 
 ## Dataset
-A combined dataset is formed by collecting images from different sources. The different datasets used in this project are FER-2013 and FER+ dataset, Extended
-Cohn-Kanade(CK+) database, Japanese Female Facial Expression database(JAFFE) and images collected in real time. This is done to improve the generalization ability of the model and to take care that the model is not biased towards a specific group. The datasets used mainly differs in factors like pose, image-quality, alignment, clarity etc.
+A combined dataset is formed by collecting images from different sources. The different datasets used in this project are the FER-2013 and FER+ datasets, Extended Cohn-Kanade(CK+) database, the Japanese Female Facial Expression database(JAFFE), and images collected in real-time. This is done to improve the generalization ability of the model and to take care that the model is not biassed towards a specific group. The datasets used mainly differ in factors like pose, image quality, alignment, clarity, etc.
 
 ![Number of images in each dataset](https://user-images.githubusercontent.com/23340235/109894984-78f1c480-7cb4-11eb-9089-a69ae797b44a.png)
 
